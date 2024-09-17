@@ -12,7 +12,7 @@
 ### Database Setup
 1. **Open PHPMyAdmin:** Access PHPMyAdmin in your browser: `http://localhost/phpmyadmin`.
 2. **Create Database:** Create a new database named `simple_attendance_db`.
-3. **Import SQL File:** Import the `simple_attendance_db.sql` file located in the `db` folder.
+3. **Import SQL File:** Import the `simple_attendance_db.sql`.
 
 ### Access the System
 * **Open in Browser:** Visit the system in your browser: `http://localhost/php-attendance/`.
